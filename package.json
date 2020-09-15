@@ -19,6 +19,7 @@
     "@babel/eslint-parser": "^7.11.5",
     "@babel/plugin-syntax-class-properties": "^7.10.4",
     "@types/jest": "^26.0.13",
+    "@types/jsdom": "^16.2.4",
     "@types/pg": "^7.14.4",
     "eslint": "^7.9.0",
     "jest": "^26.4.2",
@@ -26,6 +27,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
+    "jsdom": "^16.4.0",
     "node-fetch": "^2.6.1",
     "pg": "^8.3.3"
   }
