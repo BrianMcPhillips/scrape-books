@@ -1,4 +1,4 @@
-const request = require('../lib/.gitKeep/request.js');
+const request = require('../lib/request.js');
 
 describe('request function', () => {
   it('can make a request and return html text', async() => {

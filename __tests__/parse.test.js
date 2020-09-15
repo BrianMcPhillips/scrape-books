@@ -1,5 +1,5 @@
-const request = require('../lib/.gitKeep/request');
-const parse = require('../lib/.gitKeep/parse');
+const request = require('../lib/request');
+const parse = require('../lib/parse');
 
 describe('parse function', () => {
   it('returns an array of all books', async() => {
